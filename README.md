@@ -1,2 +1,2 @@
-# MOVtoMP4
-Convert .mov video files to .mp4
+# Python MOVtoMP4
+Convert .mov video files to .mp4 in Python.
